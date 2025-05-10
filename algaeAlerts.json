@@ -1,0 +1,23 @@
+[
+  {
+    "id": "vancouver-lake",
+    "title": "Warning: Vancouver Lake",
+    "latitude": 45.6753,
+    "longitude": -122.7210,
+    "status": "Warning"
+  },
+  {
+    "id": "lacamas-lake",
+    "title": "Advisory: Lacamas Lake",
+    "latitude": 45.6163,
+    "longitude": -122.3910,
+    "status": "Advisory"
+  },
+  {
+    "id": "green-lake",
+    "title": "Caution: Green Lake",
+    "latitude": 47.6795,
+    "longitude": -122.3419,
+    "status": "Caution"
+  }
+]
